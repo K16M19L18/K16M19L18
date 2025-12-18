@@ -1,12 +1,4 @@
-<a target="_blank" align="center">
-  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
-  
-</a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Sophie+Nguyen+🌻)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
-
-# <a href="https://github.com/SophieNguyen113"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Sophie Nguyen 🌻 
+ How do you do? I’m Kevin López 
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
@@ -133,22 +125,11 @@
 
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/sophienguyen113/" target="_blank"  rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
+  <a href="https://www.linkedin.com/in/kevin-l%C3%B3pez-a95a4b23b/" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="kevin-linkedin" />
   </a>
-  <a href="mailto:sophiengocnguyen113@gmail.com" target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
+  <a href="kl161918@gmail.com" target="top" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="kevin-email"/>
   </a>
 </div>
 
-<br>
-<div align="center">
-<a href="https://github.com/SophieNguyen113">
-<img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower">
-</a>
-
-</div>
-
-<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
-
-<br>
